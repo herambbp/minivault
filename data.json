@@ -1,0 +1,226 @@
+{
+    "BAL": {
+        "herambbp": 3200,
+        "parv": 3100,
+        "jyo": 1978,
+        "heramb_patil": 200,
+        "yash": 10000,
+        "userlab": 1000
+    },
+    "passbookData": {
+        "herambbp": [
+            {
+                "type": "Received fund",
+                "amount": 2000,
+                "balance": 3000,
+                "date": "2023-05-31 13:07:49.433782"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1000,
+                "balance": 4000,
+                "date": "2023-06-03 01:10:33.534672"
+            },
+            {
+                "type": "TF:parv",
+                "amount": 1000,
+                "balance": 3000,
+                "date": "2023-06-03 01:10:48.380363"
+            },
+            {
+                "type": "TF:yash",
+                "amount": 500,
+                "balance": 2500,
+                "date": "2023-06-03 01:11:16.426936"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 500,
+                "balance": 2000,
+                "date": "2023-06-03 17:59:43.289045"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1200,
+                "balance": 3200,
+                "date": "2023-06-03 18:04:56.679317"
+            }
+        ],
+        "parv": [
+            {
+                "type": "Deposit",
+                "amount": 1000,
+                "balance": 1000,
+                "date": "2023-05-30 21:22:21.932349"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1000,
+                "balance": 2000,
+                "date": "2023-05-30 21:24:52.966196"
+            },
+            {
+                "type": "Received fund",
+                "amount": 200,
+                "balance": 1900,
+                "date": "2023-05-31 00:06:38.634732"
+            },
+            {
+                "type": "Received fund",
+                "amount": 200,
+                "balance": 2100,
+                "date": "2023-05-31 00:13:40.686625"
+            },
+            {
+                "type": "Deposit",
+                "amount": 2000,
+                "balance": 4100,
+                "date": "2023-05-31 13:07:15.703992"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 1000,
+                "balance": 3100,
+                "date": "2023-05-31 13:07:34.298062"
+            },
+            {
+                "type": "TF:herambbp",
+                "amount": 2000,
+                "balance": 1100,
+                "date": "2023-05-31 13:07:49.433782"
+            },
+            {
+                "type": "Received fund",
+                "amount": 500,
+                "balance": 1600,
+                "date": "2023-05-31 13:43:38.476229"
+            },
+            {
+                "type": "Received fund",
+                "amount": 500,
+                "balance": 2100,
+                "date": "2023-05-31 14:33:48.083264"
+            },
+            {
+                "type": "Received fund",
+                "amount": 1000,
+                "balance": 3100,
+                "date": "2023-06-03 01:10:48.374271"
+            }
+        ],
+        "jyo": [
+            {
+                "type": "Deposit",
+                "amount": 2000,
+                "balance": 2000,
+                "date": "2023-05-30 21:32:44.565992"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 2,
+                "balance": 1998,
+                "date": "2023-05-30 21:32:56.846021"
+            },
+            {
+                "type": "TF:herambbp",
+                "amount": 20,
+                "balance": 1978,
+                "date": "2023-05-30 21:33:24.629496"
+            }
+        ],
+        "heramb_patil": [
+            {
+                "type": "Deposit",
+                "amount": 1000,
+                "balance": 1000,
+                "date": "2023-05-30 23:45:10.145647"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 600,
+                "balance": 400,
+                "date": "2023-05-30 23:46:23.411762"
+            },
+            {
+                "type": "TF:parv",
+                "amount": 200,
+                "balance": 200,
+                "date": "2023-05-31 00:13:40.701080"
+            }
+        ],
+        "yash": [
+            {
+                "type": "Deposit",
+                "amount": 10000,
+                "balance": 10000,
+                "date": "2023-05-31 13:43:19.795392"
+            },
+            {
+                "type": "TF:parv",
+                "amount": 500,
+                "balance": 9500,
+                "date": "2023-05-31 13:43:38.481742"
+            },
+            {
+                "type": "Received fund",
+                "amount": 500,
+                "balance": 10000,
+                "date": "2023-06-03 01:11:16.421338"
+            }
+        ],
+        "userlab": [
+            {
+                "type": "Deposit",
+                "amount": 2000,
+                "balance": 2000,
+                "date": "2023-05-31 14:32:54.787368"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 500,
+                "balance": 1500,
+                "date": "2023-05-31 14:33:21.580894"
+            },
+            {
+                "type": "TF:parv",
+                "amount": 500,
+                "balance": 1000,
+                "date": "2023-05-31 14:33:48.093386"
+            }
+        ]
+    },
+    "users": {
+        "herambbp": "vsfoappd",
+        "parv": "Pfxxbtwi@12",
+        "jyo": "Gpcepix123@",
+        "heramb_patil": "Pewwasvh@12",
+        "yash": "Yjbq@123",
+        "userlab": "Pkccgybn@12"
+    },
+    "namelog": {
+        "herambbp": [
+            "Heramb Patil",
+            843142
+        ],
+        "parv": [
+            "Parv Golchha",
+            291595
+        ],
+        "jyo": [
+            "Jyoti",
+            568921
+        ],
+        "heramb_patil": [
+            "Heramb Rajendra Patil",
+            823892
+        ],
+        "yash": [
+            "Yash",
+            245241
+        ],
+        "userlab": [
+            "User Lab",
+            720418
+        ]
+    }
+}
